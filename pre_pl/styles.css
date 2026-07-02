@@ -1,0 +1,16 @@
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background: #f2b84b;
+  color: #14302b;
+}
+
+img {
+  max-width: 100%;
+}
